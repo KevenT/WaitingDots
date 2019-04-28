@@ -26,7 +26,7 @@ Add Jitpack in your root build.gradle at the end of repositories:
 ...
 xmlns:dots="http://schemas.android.com/apk/res-auto"
 ...
-<pl.tajchert.waitingdots.DotsTextView
+<pl.KevenT.waitingdots.DotsTextView
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
     android:id="@+id/dots"
