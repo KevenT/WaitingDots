@@ -8,7 +8,7 @@ Small library that provides... bouncing dots. This feature is used in number of 
 
 ###Gradle depedency
 ```gradle
-    compile 'com.github.tajchert:WaitingDots:0.4.0'
+    compile 'com.github.KevenT:WaitingDots:0.4.0'
 ```
 Add Jitpack in your root build.gradle at the end of repositories:
 ```gradle
