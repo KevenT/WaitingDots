@@ -1,7 +1,7 @@
 #WaitingDots
-[![](https://jitpack.io/v/tajchert/WaitingDots.svg)](https://jitpack.io/#tajchert/WaitingDots)
+[![](https://jitpack.io/v/KevenT/WaitingDots.svg)](https://jitpack.io/#KevenT/WaitingDots)
 
-![Loading animation](https://raw.githubusercontent.com/tajchert/WaitingDots/master/images/dotsLoadingAnimation.gif)
+![Loading animation](https://raw.githubusercontent.com/KevenT/WaitingDots/master/images/dotsLoadingAnimation.gif)
 
 Small library that provides... bouncing dots. This feature is used in number of messaging apps (such as Hangouts or Messenger), and lately in Android TV (for example when connecting to Wifi).
 
