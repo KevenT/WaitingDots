@@ -55,8 +55,8 @@ dots.isPlaying();
 
 ###Proguard
 ```
--dontwarn pl.tajchert.waitingdots.**
--keep public class pl.tajchert.waitingdots.** { public protected private *; }
+-dontwarn pl.KevenT.waitingdots.**
+-keep public class pl.KevenT.waitingdots.** { public protected private *; }
 ```
 
 
